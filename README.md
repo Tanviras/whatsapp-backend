@@ -25,7 +25,6 @@ Woahapp-messages is a full-stack site which can be used for messaging via differ
   <li>ExpressJS</li>
   <li>MongoDB</li>
   <li>Pusher</li>
-  <li>Axios</li>
   <li>Firebase Authentication</li>
   <li>Material UI</li>
   <li>Heroku</li>
