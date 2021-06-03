@@ -1,7 +1,7 @@
 const express = require('express')
 const bodyParser = require('body-parser');
 const cors = require('cors');
-const MongoClient = require('mongodb').MongoClient;
+// const MongoClient = require('mongodb').MongoClient;
 const fileUpload = require('express-fileupload');
 const Pusher = require('pusher');
 const mongoose = require('mongoose');
